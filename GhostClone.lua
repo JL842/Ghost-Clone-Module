@@ -1,3 +1,5 @@
+-- Version 1 and work in progress
+
 local RS = game:GetService("RunService")
 local Debris = game:GetService("Debris")
 local TS = game:GetService("TweenService")
@@ -239,3 +241,4 @@ end
 
 
 return GhostClone
+
